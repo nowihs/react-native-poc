@@ -1,2 +1,2 @@
 # react-native-poc
-React Native proof-of-concept for Thrones: A Public Bathroom App
+A proof-of-concept React Native app with PostgreSQL, Typescript, Stripe, and Tailwind.
